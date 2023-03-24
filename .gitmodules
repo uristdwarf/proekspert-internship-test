@@ -1,0 +1,3 @@
+[submodule "camp-coinmaster-task"]
+	path = camp-coinmaster-task
+	url = https://github.com/Proekspert/camp-coinmaster-task
