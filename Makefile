@@ -1,3 +1,5 @@
+ode:
+	g++ -g ode.cpp -std=c++17 -o bin/ode 
 image:
 	gcc -g image.c -o bin/image -lm
 
